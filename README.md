@@ -1,4 +1,2 @@
-eazy-pass-api
-=============
-
-API made in sails
+# eazy-pass-api
+### a Sails application
